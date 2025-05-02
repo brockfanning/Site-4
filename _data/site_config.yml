@@ -222,6 +222,11 @@ metadata_tabs:
 meta_tags: []
 news:
   category_links: false
+observation_attributes:
+  - field: COMMENT_OBS
+    label: 'Comment'
+  - field: SOURCE_DETAIL
+    label: 'Source'
 progress_status:
   status_heading: ''
   status_help: ''
